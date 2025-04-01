@@ -39,8 +39,12 @@ cp .env.example .env
 
 ### 3. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the Bot
 
+```bash
 python bot.py
+```
